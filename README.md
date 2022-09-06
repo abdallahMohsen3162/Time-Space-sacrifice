@@ -19,5 +19,5 @@ I have figured out two solutions for this problem :
 
 sol1 : https://codeforces.com/problemset/submission/960/171153921
 
-sol2 : https://codeforces.com/contest/960/submission/171153921
+sol2 : https://codeforces.com/problemset/submission/960/171155917
 
